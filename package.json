@@ -1,5 +1,5 @@
 {
-  "name": "ng2-highcharts",
+  "name": "@mattlewis92/ng2-highcharts",
   "version": "1.0.0",
   "scripts": {
     "test": "echo No tests available yet...",
